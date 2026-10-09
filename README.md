@@ -1,6 +1,4 @@
-# louis.github.io
-```html
-<!DOCTYPE html>
+
 <html lang="fr" class="h-full">
 <head>
     <meta charset="UTF-8">
